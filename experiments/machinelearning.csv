@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Which of the following is NOT a major issue to consider in supervised learning?,a: Bias-variance tradeoff | b: Redundancy in the data | c: Function complexity and amount of training data | d: Dimensionality of the input space,b
+What is the main disadvantage of a learning algorithm with low bias?,a: High variance | b: Poor generalization ability | c: Overfitting | d: Underfitting,a
+Which of the following is a potential approach to alleviate noise in output values?,a: Early stopping | b: Regularization | c: Feature selection | d: All of the above,d
+Which learning algorithm is specifically designed to handle heterogeneous data?,a: Linear regression | b: Logistic regression | c: Decision trees | d: Neural networks,c
+What is the term used to describe the statistical quality of an algorithm in supervised learning?,a: Generalization error | b: Bias | c: Variance | d: Accuracy,a
